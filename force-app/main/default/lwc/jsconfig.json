@@ -2,7 +2,14 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/comboBox": [
+                "comboBox/comboBox.js"
+            ],
+            "c/helloWolrd": [
+                "helloWolrd/helloWolrd.js"
+            ]
+        }
     },
     "include": [
         "**/*",
