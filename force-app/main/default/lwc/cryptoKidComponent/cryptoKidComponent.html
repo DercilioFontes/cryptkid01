@@ -1,11 +1,11 @@
 <template>
     <lightning-combobox
-            name="crytoValue"
+            name="cryptoValue"
             label="Crypto Currency"
             value={value}
-            placeholder="0.00"
+            placeholder=""
             options={options}
             onchange={handleChange} ></lightning-combobox>
 
-    <p>Selected value is: {value}</p>
+    <p>Selected value is: {valueFormated}</p>
 </template>

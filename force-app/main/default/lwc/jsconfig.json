@@ -6,6 +6,9 @@
             "c/comboBox": [
                 "comboBox/comboBox.js"
             ],
+            "c/cryptoKidComponent": [
+                "cryptoKidComponent/cryptoKidComponent.js"
+            ],
             "c/helloWolrd": [
                 "helloWolrd/helloWolrd.js"
             ]

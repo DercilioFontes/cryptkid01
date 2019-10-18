@@ -1,0 +1,24 @@
+{
+  "name": "cryptkid01",
+  "version": "1.0.0",
+  "description": "This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jsforce": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DercilioFontes/cryptkid01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DercilioFontes/cryptkid01/issues"
+  },
+  "homepage": "https://github.com/DercilioFontes/cryptkid01#readme"
+}
